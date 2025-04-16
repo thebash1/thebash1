@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hola mucho gusto, soy Alex Daniel estudiante Colombiano de la carrera ingeniería en sistemas, aprendiz y entusiasta del desarrollo web como también el hacking ético, actualmente con 20 años de edad y con un nivel de ingles B1, me encantaría ser un integrante más en tu equipo de desarrollo para tu compañía, siendo autodidacta y cooperativo, aspiro aportar mucho dentro de tu empresa. <br>Interesado en cualquier modalidad de trabajo y adquirir nuevas habilidades.
+Hola mucho gusto, soy Alex Daniel estudiante Colombiano de la carrera ingeniería en sistemas, aprendiz y entusiasta del desarrollo web como también el hacking ético, actualmente con 20 años de edad y con un nivel de ingles B1, me encantaría ser un integrante más en tu equipo de desarrollo para tu compañía, siendo autodidacta y cooperativo, aspiro aportar mucho dentro de tu empresa. Interesado en cualquier modalidad de trabajo y adquirir nuevas habilidades.
 
 
 ## 🌐 Socials:
