@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a 20 years old student of systems engineering from Colombia, excited to learn more about web development every day.</p>
+<p align="left">I'm Alex Daniel Mora and I'm 20 years old student of systems engineering from Colombia, excited to learn more about web development every day.</p>
 
 ###
 
